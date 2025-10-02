@@ -30,13 +30,13 @@ MacOS/Linux :
 
 
 2. Click "Convert PNG to RGB565" button
-![Step 1](1.png)
+![Step 1](assets/1.png)
 
 3. Select your PNG file
-![Step 2](2.png)
+![Step 2](assets/2.png)
 
 4. Choose where to save the .h file
-![Step 3](3.png)
+![Step 3](assets/3.png)
 
 The output will be a C header file containing a `uint16_t` array with RGB565 pixel data.
 If no destination folder is selected the file will be output relative to the original file.

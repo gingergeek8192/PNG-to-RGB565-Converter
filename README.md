@@ -2,6 +2,8 @@
 
 A simple GUI tool to convert PNG images to C header files with RGB565 format data.
 
+**Keywords:** PNG converter, RGB565, C header, png to bitmap, LCD display, image processing, Python GUI, Arduino, ESP32, TFT
+
 ## Requirements
 
 - Python 3.13.0
